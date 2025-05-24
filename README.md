@@ -28,3 +28,7 @@ A fun and simple meme generator built using **Next.js 15**, **TypeScript**, and 
 ## 📝 License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+## DEPLOYMENT
+
+(https://vercel.com/shivanicharans-projects/meme-generator-nextjs-4bdm/HMaJ6PJFXcRmhkLm7YsuaUWyytbC)
